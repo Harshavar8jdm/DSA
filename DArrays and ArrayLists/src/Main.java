@@ -7,5 +7,8 @@ public class Main {
         // directly
         int[] rollNo1 = {11, 2, 3, 4, 5};
 
+        String[] names = new String[3];
+        System.out.println(names[1]);
+
     }
 }
