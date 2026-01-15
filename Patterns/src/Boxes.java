@@ -1,7 +1,7 @@
 public class Boxes {
     public static void main(String[] args){
         //filledBox(12);
-        //System.out.println();
+        System.out.println();
         //hollowBox(12);
         //slopingTriangle(6);
         //slopingNumTriangle(6);
