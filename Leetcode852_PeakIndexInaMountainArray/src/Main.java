@@ -1,10 +1,5 @@
-public class Main {
-
-    static void main(){
-        int[] arr = {2,4,6,8,9,10,19};
-        System.out.println(peakIndexInMountainArray(arr));
-    }
-    static int peakIndexInMountainArray(int[] arr) {
+class Solution {
+    public int peakIndexInMountainArray(int[] arr) {
         int start = 0;
         int end = arr.length - 1;
 
